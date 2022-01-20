@@ -2,9 +2,9 @@
 
 A project created with the main goal of testing MySQL database features.
 A simple user interface, which allows to enter user details such as name, country, salary, age, and job position.
-As soon as all the details are entered, clicking the “Add” button, the typed details will be sent to the database.
-It’s also possible to update and delete the provided details.
-With the “Show employees” button, it’s also possible to show the current table.
+Clicking the “Add” button, the typed details will be sent to the database.
+Features: Add, Get, Update, and Delete one or more employees from the list.
+
 
 ### Have a look at some pictures of both front-end and MySQL workbench
 
