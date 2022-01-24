@@ -19,3 +19,6 @@ Clicking on Show employees a GET request will be invoked and the entire list of 
 Finally, the corresponding table from MySQL workbench
 
 ![MySQL](https://user-images.githubusercontent.com/91989821/150240357-3b67f092-020b-4dd9-95ec-120c82af3b03.png)
+
+
+The attached pictures are screenshots based on the UI/Database
