@@ -12,7 +12,7 @@ Features: Add, Get, Update, and Delete one or more employees from the list.
 
 ![main](https://user-images.githubusercontent.com/91989821/150240190-263c96c9-a0eb-4696-8127-16d8f8de82df.png)
 
-- Clicking on Show employees a GET request will be invoked and the entire list of employees will be shown
+- Clicking on 'Show employees a GET request will be invoked and the entire list of employees will be shown
 
 ![employees](https://user-images.githubusercontent.com/91989821/150240298-4c0d8f79-6212-4a20-9a6d-892e99c1bf30.png)
 
