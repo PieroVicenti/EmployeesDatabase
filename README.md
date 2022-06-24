@@ -22,4 +22,4 @@ Features: Add, Get, Update, and Delete one or more employees from the list.
 
 
 -The attached pictures are screenshots related to the UI/Database.
--Names,data, and details have been used and desplayed as examples and test only.
+-Names,data, and details have been used and desplayed as examples and test purposes only.
